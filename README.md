@@ -20,7 +20,7 @@
 
 ### ✍️ Technical Writing
 - [Taming the Live Stream: Wrangling Limitations of Delta Live Tables](https://medium.com/@adakankit4/taming-the-live-stream-wrangling-limitations-of-delta-live-tables-5495b6e8cf00) (2024) 
-- [Embracing the Flow: Overcoming Challenges in Converting Batch to Streaming Pipelines](https://github.com/Ankit-Adak](https://medium.com/@adakankit4/embracing-the-flow-overcoming-challenges-in-converting-batch-to-streaming-pipelines-5dcca72820dc)) (2024) 
+- [Embracing the Flow: Overcoming Challenges in Converting Batch to Streaming Pipelines](https://medium.com/@adakankit4/embracing-the-flow-overcoming-challenges-in-converting-batch-to-streaming-pipelines-5dcca72820dc) (2024) 
 
 ### 📫 Connect with me
 - **Email:** [adakankit4@gmail.com](mailto:adakankit4@gmail.com) 
